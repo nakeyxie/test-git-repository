@@ -1,8 +1,8 @@
-this is a local git
+﻿this is a local git
 test modify 
 
 test  push to remote
 
-�ٴθ�ϰ
+复习复习
 
-��ϰ
+复习复习！
